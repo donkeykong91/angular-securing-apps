@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  dangerousCode  = 'Template <script>alert("i am dangerous")</script> <b>Syntax</b>';
+  constructor() {}
 }
